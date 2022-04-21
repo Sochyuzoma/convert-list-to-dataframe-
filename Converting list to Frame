@@ -1,0 +1,8 @@
+# import pandas as pd
+
+# products_list = ['Procold-1box.' ,'Dolo  - 10','Lumatem x6.12. 18. 24', 'Shal artem x24', 'Lofenac-100 - 10','Exiplon adult-10', 'Crepe Bandage-3 x12.-5', 'Crepe 4x12.Gauze bandage 6x12 - 5. 4x12.-5', 'Nixaderm - 5', 'paracetamol x96 mb-12', 'Amalar-10.' ,'Ramboinsecticide spray - 5', 'Alabuku - 5', 'Mim tonic 300ml - 5', 'mixagripx4 - 10', 'throat Lozenges shaltoux-1',  'Bunto tonic 300ml - 5', 'Maxquine syrup-10', 'Genovera   capsule - 5', 'chest and lungs - 10', 'procold - 1box', 'Gential violet-10', 'Ibucap-10', ' Lumatem x6, x12, x18, x24','by Lofenac-100 - 10', 'Crepe 3x12 - 10', 'Crepe 4x12 - 10', 'Amalar-10' ,'Everup caps-5', 'GG Cold - 5', 'curefenac-10','Macalum x6, x12, x18, x24', 'Eversea codliver x300mg - 5']
+
+# df = pd.DataFrame (products_list, columns = ['product_name'])
+# print (df)
+
+# df.to_csv(r'C:\Users\Sochi\Downloads\divineassitance.csv')
